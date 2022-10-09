@@ -1,0 +1,529 @@
+Means of transportation,Gender,Age class,year,Value (thousands)
+by foot,females,65 years and over,2020,38
+by foot,females,65 years and over,2021,45
+by foot,males,45-54 years,2020,345
+by foot,males,45-54 years,2021,358
+by foot,males,25-34 years,2020,176
+by foot,males,25-34 years,2021,205
+train,total,45-54 years,2020,181
+train,total,45-54 years,2021,176
+"tram, bus",females,45-54 years,2020,160
+"tram, bus",females,45-54 years,2021,152
+"motorcycle, moped",males,15 years and over,2020,659
+"motorcycle, moped",males,15 years and over,2021,655
+bicycle,total,20-24 years,2020,20
+bicycle,total,20-24 years,2021,24
+bus company,males,20-24 years,2020,5
+bus company,males,20-24 years,2021,1
+train,total,55-64 years,2020,142
+train,total,55-64 years,2021,110
+they use means of transport,males,65 years and over,2020,268
+they use means of transport,males,65 years and over,2021,276
+bus company,females,25-34 years,2020,3
+bus company,females,25-34 years,2021,2
+coach,females,65 years and over,2020,
+coach,females,65 years and over,2021,3
+private car as driver,total,65 years and over,2020,304
+private car as driver,total,65 years and over,2021,336
+"tram, bus",males,65 years and over,2020,11
+"tram, bus",males,65 years and over,2021,11
+coach,total,20-24 years,2020,14
+coach,total,20-24 years,2021,13
+they use means of transport,males,35-44 years,2020,2895
+they use means of transport,males,35-44 years,2021,2770
+private car as passenger,females,15 years and over,2020,514
+private car as passenger,females,15 years and over,2021,476
+bus company,males,45-54 years,2020,10
+bus company,males,45-54 years,2021,19
+"motorcycle, moped",total,65 years and over,2020,21
+"motorcycle, moped",total,65 years and over,2021,12
+"motorcycle, moped",males,25-34 years,2020,113
+"motorcycle, moped",males,25-34 years,2021,90
+bicycle,females,65 years and over,2020,0
+bicycle,females,65 years and over,2021,3
+private car as passenger,males,65 years and over,2020,9
+private car as passenger,males,65 years and over,2021,4
+bicycle,total,25-34 years,2020,133
+bicycle,total,25-34 years,2021,134
+private car as driver,total,45-54 years,2020,4837
+private car as driver,total,45-54 years,2021,4732
+bicycle,females,35-44 years,2020,52
+bicycle,females,35-44 years,2021,66
+private car as passenger,females,20-24 years,2020,44
+private car as passenger,females,20-24 years,2021,18
+private car as passenger,males,55-64 years,2020,62
+private car as passenger,males,55-64 years,2021,76
+"motorcycle, moped",total,55-64 years,2020,168
+"motorcycle, moped",total,55-64 years,2021,169
+metro,males,15 years and over,2020,379
+metro,males,15 years and over,2021,276
+bicycle,females,20-24 years,2020,5
+bicycle,females,20-24 years,2021,5
+train,males,25-34 years,2020,71
+train,males,25-34 years,2021,58
+bicycle,females,15-19 years,2020,2
+bicycle,females,15-19 years,2021,0
+"tram, bus",total,20-24 years,2020,55
+"tram, bus",total,20-24 years,2021,17
+"motorcycle, moped",females,55-64 years,2020,31
+"motorcycle, moped",females,55-64 years,2021,21
+"tram, bus",females,35-44 years,2020,110
+"tram, bus",females,35-44 years,2021,79
+bicycle,total,15 years and over,2020,681
+bicycle,total,15 years and over,2021,708
+train,females,55-64 years,2020,47
+train,females,55-64 years,2021,38
+private car as driver,total,15-19 years,2020,20
+private car as driver,total,15-19 years,2021,32
+"tram, bus",females,20-24 years,2020,24
+"tram, bus",females,20-24 years,2021,13
+bus company,males,15-19 years,2020,0
+bus company,males,15-19 years,2021,0
+metro,males,25-34 years,2020,120
+metro,males,25-34 years,2021,55
+they use means of transport,males,45-54 years,2020,3519
+they use means of transport,males,45-54 years,2021,3398
+bicycle,males,20-24 years,2020,15
+bicycle,males,20-24 years,2021,19
+metro,males,15-19 years,2020,0
+metro,males,15-19 years,2021,3
+train,total,15-19 years,2020,2
+train,total,15-19 years,2021,3
+by foot,females,15-19 years,2020,6
+by foot,females,15-19 years,2021,12
+they use means of transport,total,20-24 years,2020,694
+they use means of transport,total,20-24 years,2021,700
+"tram, bus",total,15 years and over,2020,977
+"tram, bus",total,15 years and over,2021,761
+they use means of transport,females,15 years and over,2020,7481
+they use means of transport,females,15 years and over,2021,7314
+they use means of transport,females,20-24 years,2020,226
+they use means of transport,females,20-24 years,2021,224
+private car as driver,total,55-64 years,2020,3000
+private car as driver,total,55-64 years,2021,3139
+private car as driver,total,35-44 years,2020,4009
+private car as driver,total,35-44 years,2021,3846
+bus company,males,35-44 years,2020,12
+bus company,males,35-44 years,2021,7
+metro,males,20-24 years,2020,4
+metro,males,20-24 years,2021,2
+by foot,females,45-54 years,2020,454
+by foot,females,45-54 years,2021,428
+train,females,65 years and over,2020,0
+train,females,65 years and over,2021,1
+"tram, bus",females,25-34 years,2020,144
+"tram, bus",females,25-34 years,2021,90
+bus company,males,15 years and over,2020,52
+bus company,males,15 years and over,2021,42
+coach,females,45-54 years,2020,50
+coach,females,45-54 years,2021,54
+"tram, bus",males,20-24 years,2020,31
+"tram, bus",males,20-24 years,2021,5
+coach,males,65 years and over,2020,5
+coach,males,65 years and over,2021,1
+private car as driver,females,35-44 years,2020,1586
+private car as driver,females,35-44 years,2021,1527
+"motorcycle, moped",total,35-44 years,2020,193
+"motorcycle, moped",total,35-44 years,2021,192
+coach,females,20-24 years,2020,9
+coach,females,20-24 years,2021,4
+coach,total,25-34 years,2020,70
+coach,total,25-34 years,2021,45
+private car as passenger,total,20-24 years,2020,114
+private car as passenger,total,20-24 years,2021,89
+by foot,males,65 years and over,2020,70
+by foot,males,65 years and over,2021,57
+they use means of transport,males,25-34 years,2020,2039
+they use means of transport,males,25-34 years,2021,1920
+metro,total,65 years and over,2020,8
+metro,total,65 years and over,2021,22
+coach,total,55-64 years,2020,78
+coach,total,55-64 years,2021,47
+private car as driver,females,20-24 years,2020,156
+private car as driver,females,20-24 years,2021,180
+private car as driver,males,55-64 years,2020,1900
+private car as driver,males,55-64 years,2021,2004
+bus company,total,20-24 years,2020,5
+bus company,total,20-24 years,2021,1
+bicycle,males,35-44 years,2020,121
+bicycle,males,35-44 years,2021,117
+"tram, bus",males,45-54 years,2020,97
+"tram, bus",males,45-54 years,2021,80
+bus company,total,65 years and over,2020,0
+bus company,total,65 years and over,2021,
+private car as driver,females,65 years and over,2020,78
+private car as driver,females,65 years and over,2021,92
+private car as passenger,females,25-34 years,2020,98
+private car as passenger,females,25-34 years,2021,89
+private car as driver,total,25-34 years,2020,2561
+private car as driver,total,25-34 years,2021,2561
+private car as passenger,males,35-44 years,2020,128
+private car as passenger,males,35-44 years,2021,139
+private car as driver,females,55-64 years,2020,1100
+private car as driver,females,55-64 years,2021,1135
+coach,total,15 years and over,2020,351
+coach,total,15 years and over,2021,274
+by foot,total,35-44 years,2020,560
+by foot,total,35-44 years,2021,547
+metro,total,45-54 years,2020,241
+metro,total,45-54 years,2021,170
+"tram, bus",males,15-19 years,2020,0
+"tram, bus",males,15-19 years,2021,1
+bus company,males,25-34 years,2020,13
+bus company,males,25-34 years,2021,12
+by foot,total,15 years and over,2020,2515
+by foot,total,15 years and over,2021,2607
+coach,females,15 years and over,2020,183
+coach,females,15 years and over,2021,134
+by foot,females,55-64 years,2020,305
+by foot,females,55-64 years,2021,354
+they use means of transport,males,15-19 years,2020,41
+they use means of transport,males,15-19 years,2021,56
+"tram, bus",males,55-64 years,2020,74
+"tram, bus",males,55-64 years,2021,59
+coach,females,15-19 years,2020,4
+coach,females,15-19 years,2021,
+bicycle,total,15-19 years,2020,4
+bicycle,total,15-19 years,2021,2
+coach,females,55-64 years,2020,44
+coach,females,55-64 years,2021,25
+"tram, bus",total,65 years and over,2020,21
+"tram, bus",total,65 years and over,2021,31
+metro,total,20-24 years,2020,23
+metro,total,20-24 years,2021,6
+metro,females,65 years and over,2020,1
+metro,females,65 years and over,2021,14
+"motorcycle, moped",females,20-24 years,2020,2
+"motorcycle, moped",females,20-24 years,2021,2
+by foot,females,35-44 years,2020,252
+by foot,females,35-44 years,2021,286
+private car as driver,total,15 years and over,2020,15212
+private car as driver,total,15 years and over,2021,15170
+"tram, bus",females,15-19 years,2020,5
+"tram, bus",females,15-19 years,2021,0
+coach,total,15-19 years,2020,7
+coach,total,15-19 years,2021,3
+"tram, bus",males,25-34 years,2020,103
+"tram, bus",males,25-34 years,2021,69
+bus company,total,35-44 years,2020,23
+bus company,total,35-44 years,2021,10
+train,females,20-24 years,2020,8
+train,females,20-24 years,2021,9
+train,males,65 years and over,2020,2
+train,males,65 years and over,2021,5
+train,females,45-54 years,2020,81
+train,females,45-54 years,2021,78
+coach,females,25-34 years,2020,41
+coach,females,25-34 years,2021,17
+"motorcycle, moped",males,65 years and over,2020,21
+"motorcycle, moped",males,65 years and over,2021,10
+train,total,25-34 years,2020,171
+train,total,25-34 years,2021,116
+they use means of transport,total,65 years and over,2020,366
+they use means of transport,total,65 years and over,2021,412
+bicycle,total,55-64 years,2020,135
+bicycle,total,55-64 years,2021,144
+by foot,females,25-34 years,2020,193
+by foot,females,25-34 years,2021,247
+bicycle,males,45-54 years,2020,113
+bicycle,males,45-54 years,2021,129
+bicycle,total,65 years and over,2020,7
+bicycle,total,65 years and over,2021,6
+"tram, bus",males,15 years and over,2020,394
+"tram, bus",males,15 years and over,2021,276
+by foot,total,45-54 years,2020,799
+by foot,total,45-54 years,2021,786
+they use means of transport,females,25-34 years,2020,1385
+they use means of transport,females,25-34 years,2021,1294
+private car as passenger,males,45-54 years,2020,135
+private car as passenger,males,45-54 years,2021,123
+"tram, bus",total,25-34 years,2020,247
+"tram, bus",total,25-34 years,2021,159
+train,total,65 years and over,2020,2
+train,total,65 years and over,2021,6
+bicycle,females,55-64 years,2020,57
+bicycle,females,55-64 years,2021,67
+by foot,total,65 years and over,2020,108
+by foot,total,65 years and over,2021,102
+private car as driver,total,20-24 years,2020,481
+private car as driver,total,20-24 years,2021,525
+train,females,25-34 years,2020,100
+train,females,25-34 years,2021,58
+private car as passenger,males,20-24 years,2020,70
+private car as passenger,males,20-24 years,2021,71
+train,total,35-44 years,2020,163
+train,total,35-44 years,2021,132
+they use means of transport,total,15-19 years,2020,69
+they use means of transport,total,15-19 years,2021,66
+they use means of transport,total,45-54 years,2020,5885
+they use means of transport,total,45-54 years,2021,5769
+metro,total,25-34 years,2020,242
+metro,total,25-34 years,2021,133
+by foot,males,15 years and over,2020,1230
+by foot,males,15 years and over,2021,1206
+bus company,females,20-24 years,2020,0
+bus company,females,20-24 years,2021,0
+"motorcycle, moped",females,45-54 years,2020,43
+"motorcycle, moped",females,45-54 years,2021,65
+train,females,15 years and over,2020,305
+train,females,15 years and over,2021,237
+private car as passenger,total,45-54 years,2020,264
+private car as passenger,total,45-54 years,2021,259
+"motorcycle, moped",males,20-24 years,2020,22
+"motorcycle, moped",males,20-24 years,2021,10
+they use means of transport,females,65 years and over,2020,98
+they use means of transport,females,65 years and over,2021,136
+they use means of transport,total,25-34 years,2020,3423
+they use means of transport,total,25-34 years,2021,3214
+private car as passenger,females,65 years and over,2020,11
+private car as passenger,females,65 years and over,2021,15
+bicycle,total,35-44 years,2020,173
+bicycle,total,35-44 years,2021,183
+private car as driver,males,20-24 years,2020,325
+private car as driver,males,20-24 years,2021,346
+bus company,males,65 years and over,2020,0
+bus company,males,65 years and over,2021,
+bus company,total,55-64 years,2020,13
+bus company,total,55-64 years,2021,5
+metro,total,15 years and over,2020,817
+metro,total,15 years and over,2021,574
+bus company,females,15-19 years,2020,0
+bus company,females,15-19 years,2021,0
+coach,males,15 years and over,2020,167
+coach,males,15 years and over,2021,139
+"motorcycle, moped",males,45-54 years,2020,209
+"motorcycle, moped",males,45-54 years,2021,229
+private car as driver,males,25-34 years,2020,1539
+private car as driver,males,25-34 years,2021,1536
+metro,males,45-54 years,2020,95
+metro,males,45-54 years,2021,83
+private car as passenger,total,55-64 years,2020,178
+private car as passenger,total,55-64 years,2021,199
+private car as passenger,total,35-44 years,2020,231
+private car as passenger,total,35-44 years,2021,230
+bicycle,males,25-34 years,2020,90
+bicycle,males,25-34 years,2021,90
+private car as driver,males,45-54 years,2020,2910
+private car as driver,males,45-54 years,2021,2815
+"motorcycle, moped",females,25-34 years,2020,31
+"motorcycle, moped",females,25-34 years,2021,20
+they use means of transport,females,15-19 years,2020,28
+they use means of transport,females,15-19 years,2021,10
+bicycle,males,65 years and over,2020,7
+bicycle,males,65 years and over,2021,4
+"motorcycle, moped",total,15 years and over,2020,807
+"motorcycle, moped",total,15 years and over,2021,795
+by foot,females,20-24 years,2020,36
+by foot,females,20-24 years,2021,28
+bus company,females,45-54 years,2020,6
+bus company,females,45-54 years,2021,4
+private car as passenger,total,25-34 years,2020,234
+private car as passenger,total,25-34 years,2021,208
+they use means of transport,males,55-64 years,2020,2296
+they use means of transport,males,55-64 years,2021,2380
+coach,total,45-54 years,2020,103
+coach,total,45-54 years,2021,101
+metro,males,55-64 years,2020,76
+metro,males,55-64 years,2021,61
+private car as passenger,total,15-19 years,2020,32
+private car as passenger,total,15-19 years,2021,21
+"tram, bus",females,55-64 years,2020,131
+"tram, bus",females,55-64 years,2021,132
+private car as driver,males,35-44 years,2020,2423
+private car as driver,males,35-44 years,2021,2319
+"motorcycle, moped",females,35-44 years,2020,40
+"motorcycle, moped",females,35-44 years,2021,29
+coach,males,20-24 years,2020,4
+coach,males,20-24 years,2021,9
+metro,females,15 years and over,2020,439
+metro,females,15 years and over,2021,298
+train,total,15 years and over,2020,681
+train,total,15 years and over,2021,561
+"motorcycle, moped",females,65 years and over,2020,0
+"motorcycle, moped",females,65 years and over,2021,2
+they use means of transport,males,15 years and over,2020,11525
+they use means of transport,males,15 years and over,2021,11275
+"tram, bus",females,15 years and over,2020,583
+"tram, bus",females,15 years and over,2021,484
+they use means of transport,total,15 years and over,2020,19006
+they use means of transport,total,15 years and over,2021,18589
+private car as driver,males,15-19 years,2020,16
+private car as driver,males,15-19 years,2021,26
+train,males,15 years and over,2020,376
+train,males,15 years and over,2021,324
+by foot,males,15-19 years,2020,14
+by foot,males,15-19 years,2021,10
+private car as passenger,females,45-54 years,2020,128
+private car as passenger,females,45-54 years,2021,136
+train,females,15-19 years,2020,2
+train,females,15-19 years,2021,0
+bicycle,males,15-19 years,2020,2
+bicycle,males,15-19 years,2021,2
+bus company,females,15 years and over,2020,22
+bus company,females,15 years and over,2021,11
+bicycle,females,45-54 years,2020,96
+bicycle,females,45-54 years,2021,87
+metro,females,55-64 years,2020,67
+metro,females,55-64 years,2021,51
+"motorcycle, moped",total,15-19 years,2020,4
+"motorcycle, moped",total,15-19 years,2021,7
+private car as driver,females,45-54 years,2020,1926
+private car as driver,females,45-54 years,2021,1917
+bicycle,females,25-34 years,2020,43
+bicycle,females,25-34 years,2021,44
+coach,males,45-54 years,2020,53
+coach,males,45-54 years,2021,47
+by foot,total,15-19 years,2020,19
+by foot,total,15-19 years,2021,22
+by foot,total,25-34 years,2020,370
+by foot,total,25-34 years,2021,452
+coach,total,35-44 years,2020,75
+coach,total,35-44 years,2021,60
+by foot,males,55-64 years,2020,270
+by foot,males,55-64 years,2021,276
+metro,total,35-44 years,2020,159
+metro,total,35-44 years,2021,128
+"tram, bus",males,35-44 years,2020,77
+"tram, bus",males,35-44 years,2021,52
+coach,females,35-44 years,2020,35
+coach,females,35-44 years,2021,31
+they use means of transport,males,20-24 years,2020,468
+they use means of transport,males,20-24 years,2021,475
+private car as driver,males,65 years and over,2020,226
+private car as driver,males,65 years and over,2021,245
+private car as passenger,males,25-34 years,2020,136
+private car as passenger,males,25-34 years,2021,119
+bus company,females,55-64 years,2020,2
+bus company,females,55-64 years,2021,2
+by foot,total,20-24 years,2020,84
+by foot,total,20-24 years,2021,67
+metro,males,35-44 years,2020,78
+metro,males,35-44 years,2021,64
+train,males,20-24 years,2020,11
+train,males,20-24 years,2021,9
+bus company,females,35-44 years,2020,11
+bus company,females,35-44 years,2021,3
+metro,females,20-24 years,2020,19
+metro,females,20-24 years,2021,4
+bus company,females,65 years and over,2020,0
+bus company,females,65 years and over,2021,0
+by foot,females,15 years and over,2020,1285
+by foot,females,15 years and over,2021,1401
+bus company,total,45-54 years,2020,16
+bus company,total,45-54 years,2021,23
+private car as passenger,females,15-19 years,2020,14
+private car as passenger,females,15-19 years,2021,4
+private car as passenger,males,15 years and over,2020,559
+private car as passenger,males,15 years and over,2021,548
+"motorcycle, moped",females,15-19 years,2020,1
+"motorcycle, moped",females,15-19 years,2021,0
+metro,females,45-54 years,2020,146
+metro,females,45-54 years,2021,86
+private car as driver,females,25-34 years,2020,1022
+private car as driver,females,25-34 years,2021,1025
+"motorcycle, moped",total,25-34 years,2020,145
+"motorcycle, moped",total,25-34 years,2021,110
+private car as passenger,total,65 years and over,2020,20
+private car as passenger,total,65 years and over,2021,19
+private car as passenger,males,15-19 years,2020,18
+private car as passenger,males,15-19 years,2021,17
+coach,males,55-64 years,2020,34
+coach,males,55-64 years,2021,23
+private car as passenger,females,55-64 years,2020,116
+private car as passenger,females,55-64 years,2021,123
+they use means of transport,total,35-44 years,2020,4810
+they use means of transport,total,35-44 years,2021,4562
+metro,males,65 years and over,2020,7
+metro,males,65 years and over,2021,8
+train,males,45-54 years,2020,100
+train,males,45-54 years,2021,99
+coach,males,25-34 years,2020,29
+coach,males,25-34 years,2021,28
+train,males,15-19 years,2020,0
+train,males,15-19 years,2021,3
+"motorcycle, moped",total,45-54 years,2020,251
+"motorcycle, moped",total,45-54 years,2021,294
+by foot,total,55-64 years,2020,575
+by foot,total,55-64 years,2021,630
+"tram, bus",females,65 years and over,2020,9
+"tram, bus",females,65 years and over,2021,20
+"tram, bus",total,45-54 years,2020,257
+"tram, bus",total,45-54 years,2021,232
+they use means of transport,total,55-64 years,2020,3759
+they use means of transport,total,55-64 years,2021,3865
+private car as driver,females,15 years and over,2020,5872
+private car as driver,females,15 years and over,2021,5880
+by foot,males,35-44 years,2020,308
+by foot,males,35-44 years,2021,261
+train,females,35-44 years,2020,66
+train,females,35-44 years,2021,52
+bicycle,males,15 years and over,2020,425
+bicycle,males,15 years and over,2021,437
+"motorcycle, moped",females,15 years and over,2020,148
+"motorcycle, moped",females,15 years and over,2021,140
+they use means of transport,females,45-54 years,2020,2367
+they use means of transport,females,45-54 years,2021,2371
+metro,females,25-34 years,2020,122
+metro,females,25-34 years,2021,78
+"motorcycle, moped",total,20-24 years,2020,24
+"motorcycle, moped",total,20-24 years,2021,12
+bus company,total,25-34 years,2020,16
+bus company,total,25-34 years,2021,14
+coach,total,65 years and over,2020,5
+coach,total,65 years and over,2021,4
+"motorcycle, moped",males,55-64 years,2020,137
+"motorcycle, moped",males,55-64 years,2021,148
+metro,total,15-19 years,2020,3
+metro,total,15-19 years,2021,3
+metro,females,15-19 years,2020,3
+metro,females,15-19 years,2021,0
+by foot,males,20-24 years,2020,47
+by foot,males,20-24 years,2021,39
+coach,males,15-19 years,2020,3
+coach,males,15-19 years,2021,3
+metro,females,35-44 years,2020,81
+metro,females,35-44 years,2021,65
+private car as passenger,females,35-44 years,2020,103
+private car as passenger,females,35-44 years,2021,92
+"motorcycle, moped",males,15-19 years,2020,4
+"motorcycle, moped",males,15-19 years,2021,7
+train,males,55-64 years,2020,95
+train,males,55-64 years,2021,72
+coach,males,35-44 years,2020,40
+coach,males,35-44 years,2021,28
+"tram, bus",total,55-64 years,2020,205
+"tram, bus",total,55-64 years,2021,190
+metro,total,55-64 years,2020,143
+metro,total,55-64 years,2021,112
+"motorcycle, moped",males,35-44 years,2020,153
+"motorcycle, moped",males,35-44 years,2021,163
+bus company,total,15 years and over,2020,74
+bus company,total,15 years and over,2021,53
+train,total,20-24 years,2020,20
+train,total,20-24 years,2021,18
+"tram, bus",total,15-19 years,2020,5
+"tram, bus",total,15-19 years,2021,1
+private car as driver,males,15 years and over,2020,9340
+private car as driver,males,15 years and over,2021,9290
+bus company,males,55-64 years,2020,11
+bus company,males,55-64 years,2021,3
+private car as driver,females,15-19 years,2020,4
+private car as driver,females,15-19 years,2021,6
+private car as passenger,total,15 years and over,2020,1073
+private car as passenger,total,15 years and over,2021,1025
+they use means of transport,females,35-44 years,2020,1915
+they use means of transport,females,35-44 years,2021,1793
+"tram, bus",total,35-44 years,2020,188
+"tram, bus",total,35-44 years,2021,130
+train,males,35-44 years,2020,97
+train,males,35-44 years,2021,79
+they use means of transport,females,55-64 years,2020,1462
+they use means of transport,females,55-64 years,2021,1485
+bus company,total,15-19 years,2020,0
+bus company,total,15-19 years,2021,0
+bicycle,females,15 years and over,2020,256
+bicycle,females,15 years and over,2021,271
+bicycle,total,45-54 years,2020,209
+bicycle,total,45-54 years,2021,216
+bicycle,males,55-64 years,2020,77
+bicycle,males,55-64 years,2021,78
