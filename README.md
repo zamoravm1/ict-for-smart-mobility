@@ -1,5 +1,5 @@
 # ict-for-smart-mobility
-Exercises, Polito course. Master ICT for Smart Societies. 
+Exercises, Politecnico di Torino course ICT for smart mobility by Valentina Mendoza Zamora. Master ICT for Smart Societies. 
 
 Laboratories by:
 Ayala Gil, Alejandro
